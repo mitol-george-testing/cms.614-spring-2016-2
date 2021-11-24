@@ -1,0 +1,44 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Business",
+      "Information Technology"
+    ],
+    [
+      "Fine Arts",
+      "Media Studies",
+      "Digital Media"
+    ],
+    [
+      "Social Science",
+      "Communication"
+    ],
+    [
+      "Society"
+    ],
+    [
+      "Society",
+      "Gender Studies"
+    ],
+    [
+      "Social Science",
+      "Anthropology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "1c8c58bb-aee0-a71d-8fc6-edac01b07d0d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Network Cultures",
+  "course_description": "This course focuses on the social and cultural aspects of networked life through internet-related technologies (including computers, mobile devices, entertainment technologies, and emerging media forms).\n",
+  "department_numbers": [],
+  "extra_course_numbers": "21W.791,CMS.867",
+  "primary_course_number": "CMS.614",
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
